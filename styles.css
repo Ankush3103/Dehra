@@ -20,8 +20,9 @@ hr {
 /* Headings */
 .big-heading {
   font-family: 'Berkshire Swash', cursive;
-  font-size: 3.5rem;
-  line-height: 1.5;
+  font-size: 2rem;
+  line-height: 1;
+  text-orientation: sideways;
 }
 
 .section-heading {
