@@ -99,8 +99,8 @@ hr {
 
 /* Title Image */
 .title-image {
-  width: 80%;
-  position: absolute;
+  width: 100;
+  position:sticky;
   /* transform: rotate(20deg); */
   right: 5%;
 }
