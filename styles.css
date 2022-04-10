@@ -19,9 +19,10 @@ hr {
 
 /* Headings */
 .big-heading {
-  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Overpass', sans-serif;
   font-size: 2.25rem;
   line-height: 1.5;
+  padding-top: 20%;
 }
 
 .section-heading {
@@ -103,6 +104,7 @@ hr {
   position:relative;
   /* transform: rotate(20deg); */
   right: 5%;
+  margin-top: 10%;
 }
 
 /* Features Section */
