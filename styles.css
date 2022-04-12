@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat";
-  text-align: center;
+  text-align: enter;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,15 +16,38 @@ hr {
   border: 10;
   border-color: #112D4E;
 }
+.card-img-top {
+  shape-image-threshold: inherit ;
+}
+.authimg {
+  width: 500px;
+  height: 500px;
+}
+.authcard {
+  
+  padding: 2%;
+}
+.research {
+  background-color: rgb(211, 227, 240);
+  text-align: center;
+}
 
 /* Headings */
+.new-head {
+  font-family: 'Overpass', sans-serif;
+  font-size: 2.25rem;
+  line-height: 1.5;
+}
 .big-heading {
   font-family: 'Overpass', sans-serif;
   font-size: 2.25rem;
   line-height: 1.5;
   padding-top: 20%;
 }
-
+.initial-head {
+  font-family: 'Overpass', sans-serif;
+  color: #2b90d9;
+}
 .section-heading {
   font-size: 3rem;
   line-height: 1.5;
@@ -690,13 +713,6 @@ a:hover,a:focus{
   border-color: #2b90d9;
 }
 
-/*
-*
-* ==========================================
-* FOR DEMO PURPOSE
-* ==========================================
-*
-*/
 
 body {
   background: #304352;
@@ -719,7 +735,7 @@ body {
 }
 
 .nav-pills-custom .nav-link.active {
-  color: #45b649;
+  color: #3477c3;
   background: #fff;
 }
 
@@ -756,6 +772,6 @@ body {
 */
 body {
   min-height: 100vh;
-  background: linear-gradient(to left, #dce35b, #45b649);
+  background: linear-gradient(to left, #005a8d, #30AADD);
 }
 
