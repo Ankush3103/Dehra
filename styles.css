@@ -30,6 +30,23 @@ hr {
 .research {
   background-color: rgb(211, 227, 240);
   text-align: center;
+  padding: 0%;
+}
+.research ul {
+  text-align: left;
+}
+.new-head-two {
+  font-family: 'Overpass', sans-serif;
+  font-size: 2.25rem;
+  line-height: 1.5;
+  text-align: center;
+  padding-top: 4%;
+}
+.secimg {
+  align-items: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  
 }
 
 /* Headings */
@@ -44,6 +61,7 @@ hr {
   font-size: 3.5rem;
   line-height: 1.5;
   padding-top: 20%;
+  padding-bottom: 20%;
 }
 .initial-head {
   font-family: 'Overpass', sans-serif;
