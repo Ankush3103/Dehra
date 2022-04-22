@@ -37,10 +37,11 @@ hr {
   font-family: 'Overpass', sans-serif;
   font-size: 2.25rem;
   line-height: 1.5;
+  padding-left: 20%;
 }
 .big-heading {
-  font-family: 'Overpass', sans-serif;
-  font-size: 2.25rem;
+  font-family: 'Square Peg', cursive;
+  font-size: 3.5rem;
   line-height: 1.5;
   padding-top: 20%;
 }
@@ -62,6 +63,7 @@ hr {
 .colored-section {
   background-color: #DBE2EF;
   color: #3F72AF;
+  height: 820px;
 }
 
 .white-section {
@@ -127,7 +129,7 @@ hr {
   position:relative;
   /* transform: rotate(20deg); */
   right: 5%;
-  margin-top: 10%;
+  margin-top: 30%;
 }
 
 /* Features Section */
